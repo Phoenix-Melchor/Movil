@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Activity1</string>
-    <string name="jugar_button_text">JUGAR</string>
-    <string name="opciones_button_text">OPCIONES</string>
-    <string name="en_proceso">Trabajo en proceso...</string>
-    <string name="back">Back</string>
-</resources>
